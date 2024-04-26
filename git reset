@@ -1,0 +1,45 @@
+[33mcommit 08633e57e32a229b1d43878eb5c5e2ec34259870[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mquick-test[m[33m)[m
+Merge: 4a0e551 900c9d6
+Author: unknown <t_me@tuta.io>
+Date:   Thu Apr 25 22:25:56 2024 +0200
+
+    Updated README.md with main
+
+[33mcommit 900c9d67433afccf5bf1c86a6ceddc5956aaae09[m[33m ([m[1;32mmain[m[33m)[m
+Author: unknown <t_me@tuta.io>
+Date:   Thu Apr 25 22:16:15 2024 +0200
+
+    Updated README.md
+
+[33mcommit 4a0e55176110b36e1470b6de547401aed4df2396[m
+Author: unknown <t_me@tuta.io>
+Date:   Thu Apr 25 22:14:43 2024 +0200
+
+    Updated README.md
+
+[33mcommit 34eb1a6c30e6fc7f8a0b826d5c4eccd17dec679b[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: d587490 0831786
+Author: SuperiorAlpaca <75313672+SuperiorAlpaca@users.noreply.github.com>
+Date:   Thu Apr 25 22:09:43 2024 +0200
+
+    Merge pull request #1 from SuperiorAlpaca/feature-123
+    
+    Edited README.md
+
+[33mcommit 083178614ab51d59eacd7847b030162c49fd761f[m[33m ([m[1;31morigin/feature-123[m[33m)[m
+Author: unknown <t_me@tuta.io>
+Date:   Thu Apr 25 21:57:42 2024 +0200
+
+    Edited README.md
+
+[33mcommit d587490d0c42daebe3a4edd8ae16cfa3f83490ed[m
+Author: unknown <t_me@tuta.io>
+Date:   Wed Apr 24 21:42:38 2024 +0200
+
+    Created README.md
+
+[33mcommit 4fd597913aa6a73329557653bd25578d815fb081[m
+Author: unknown <t_me@tuta.io>
+Date:   Tue Apr 23 21:58:47 2024 +0200
+
+    Created README.md
